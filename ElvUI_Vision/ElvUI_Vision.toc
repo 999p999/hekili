@@ -1,0 +1,21 @@
+##Interface: 110100
+## Version: 1.0.0
+## Title: ElvUI_Vision
+## IconTexture: Interface\AddOns\Yuro1\Media\PROXIMAICO2N.png
+## Author: Terrorblade
+## SavedVariables: ProximaSaved
+
+libs.xml
+
+Utils8.lua
+Utils3.lua
+Utils4.lua
+Utils6.lua
+Utils2.lua
+Utils5.lua
+Utils1.lua
+Utils7.lua
+Utils9.lua
+Utils10.lua
+Utils11.lua
+Inf.lua
