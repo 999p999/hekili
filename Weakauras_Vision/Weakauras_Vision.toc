@@ -1,6 +1,6 @@
 ##Interface: 110100
 ## Version: 1.0.0
-## Title: ElvUI_Vision
+## Title: Weakauras_Vision
 ## IconTexture: Interface\AddOns\ElvUI_Vision\Media\PROXIMAICO2N.png
 ## Author: Terrorblade
 ## SavedVariables: ProximaSaved
