@@ -3,7 +3,7 @@
 ## Title: HekiliRNLib
 ## IconTexture: Interface\AddOns\HekiliRNLib\Media\HekiliRNLib.png
 ## Author: Terrorblade 
-## SavedVariables: redneckSaved
+## SavedVariables: RedneckSaved
 
 
 libs.xml
